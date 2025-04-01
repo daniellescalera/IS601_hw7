@@ -4,4 +4,4 @@ This project generates a QR code that links to my GitHub profile.
 
 ## QR Code Image
 
-![QR Code](github_qr.png)
+![QR Code](qr_codes/github_qr.png)
